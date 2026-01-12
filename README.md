@@ -17,13 +17,15 @@ El mapa muestra qué tanto salió a votar la ciudadanía en cada sección electo
 **Análisis territorial:**
 - Secciones con baja participación pueden asociarse a dinámicas de **desconexión** o **baja activación comunitaria**, relevantes para análisis de inclusión, acceso a información y participación.  
 - Secciones con participación alta reflejan comunidades con mayor involucramiento cívico, donde variaciones pequeñas pueden ser significativas para entender cambios locales.
-![Participación Ciudadana](https://github.com/user-attachments/assets/45b29020-7554-4f75-bce2-49415f86ec77)
+![Participación Ciudadana](https://github.com/user-attachments/assets/df0d8803-49f3-4550-a30a-5e3074fe4c18)
+![Competitividad electoral](https://github.com/user-attachments/assets/52790560-3eba-4b97-9fa3-2be95e128e91)
+
 
 ---
 
 ### 2) Zonas competitivas (2021) con potencial electoral (2025)
 Este mapa identifica las secciones donde la contienda fue cerrada en 2021 (**margen < 5%**) y agrega etiquetas con el **tamaño actual del electorado** (Lista Nominal a nov-2025) en dichas secciones.
-![Competitividad electoral](https://github.com/user-attachments/assets/23dfe584-c8c8-4480-b21c-479c569e7a9a)
+
 
 **¿Qué aporta?**
 - Distingue **dónde** ocurrió la competencia cerrada y **cuánto** electorado está involucrado hoy en esas áreas.  
@@ -34,8 +36,9 @@ Este mapa identifica las secciones donde la contienda fue cerrada en 2021 (**mar
 
 ## Visualización interactiva (Leaflet)
 Este proyecto cuenta con una visualización interactiva (Leaflet) para explorar capas electorales y atributos por sección.
+![MapaInteractivo](https://github.com/user-attachments/assets/2d672c4f-cbbb-4617-ac98-6a49aa95a147)
 
-![MapaInteractivo](https://github.com/user-attachments/assets/3ffd6982-852d-45f1-99ce-4e63657a729e)
+
 
 
 ---
